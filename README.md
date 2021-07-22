@@ -39,4 +39,8 @@ Via Website
 
 > [Disini](https://github.com/rasitech-sudo/TGList-Sender/raw/main/TGList/bin/Release/TGList.exe)
 
+## English Sub
+
+> [Disini](https://github.com/rasitech-sudo/TGList-Sender/README-EN.md)
+
 # Jangan lupa untuk bergabung @RasiTechChannel
