@@ -1,0 +1,12 @@
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\bin\Release\TGList.exe.config
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\bin\Release\TGList.exe
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\bin\Release\TGList.pdb
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\bin\Release\TGList.xml
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.vbprojAssemblyReference.cache
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.Form1.resources
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.Resources.resources
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.vbproj.GenerateResource.cache
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.vbproj.CoreCompileInputs.cache
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.exe
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.xml
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.pdb
