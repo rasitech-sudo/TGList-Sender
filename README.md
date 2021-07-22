@@ -41,6 +41,6 @@ Via Website
 
 ## English Sub
 
-> [Here](https://github.com/rasitech-sudo/TGList-Sender/README-EN.md)
+> [Here](https://github.com/rasitech-sudo/TGList-Sender/blob/main/README-EN.md)
 
 # Jangan lupa untuk bergabung @RasiTechChannel
