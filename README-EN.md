@@ -39,4 +39,9 @@ Via Website
 
 > [Here](https://github.com/rasitech-sudo/TGList-Sender/raw/main/TGList/bin/Release/TGList.exe)
 
+## Indonesian Sub
+
+> [Here](https://github.com/rasitech-sudo/TGList-Sender/blob/main/README.md)
+
+
 # Don't forget to join @RasiTechChannel
