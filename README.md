@@ -33,7 +33,7 @@ Kamu hanya perlu memasukan List, Interval, Bot Token, Chat ID dan Metode pengiri
 
 Via Telegram
 
-> [Disini](https://t.me/RasiTechChannel/1719)
+> [Disini](https://t.me/RasiTechChannel/1732)
 
 Via Website
 
