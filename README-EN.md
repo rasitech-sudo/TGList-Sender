@@ -14,18 +14,18 @@ TGList Sender is your tool to send messages to a telegram chat ID automatically 
  - [x] Send Video
  - [x] Send Document
  - [x] Send Audio
- - [x] Add Description
- - [x] Change delivery rate with Interval
+ - [x] Add Caption
+ - [x] Add delivery rate with Interval
+ - [x] Add Info Box
 
 ## **Next Features?**
 
- - [x] Count the amount sent
  - [x] Broadcast To Many ID
  - [ ] Haven't thought about it yet
 
 ## **TGList Sender Image**
 
-![enter image description here](https://i.imgur.com/pUfVUIz.png)
+![enter image description here](https://i.imgur.com/B1dI8B0.png)
 
 You only need to enter the List, Interval, Bot Token, Chat ID and delivery method
 
@@ -39,9 +39,8 @@ Via Website
 
 > [Here](https://github.com/rasitech-sudo/TGList-Sender/raw/main/TGList/bin/Release/TGList.exe)
 
-## Indonesian Sub
+## English Sub
 
-> [Here](https://github.com/rasitech-sudo/TGList-Sender/blob/main/README.md)
-
+> [Here](https://github.com/rasitech-sudo/TGList-Sender/blob/main/README-EN.md)
 
 # Don't forget to join @RasiTechChannel
