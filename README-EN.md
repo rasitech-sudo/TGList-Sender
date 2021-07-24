@@ -33,7 +33,7 @@ You only need to enter the List, Interval, Bot Token, Chat ID and delivery metho
 
 Via Telegram
 
-> [Here](https://t.me/RasiTechChannel/1719)
+> [Here](https://t.me/RasiTechChannel/1732)
 
 Via Website
 
