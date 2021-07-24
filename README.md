@@ -16,16 +16,16 @@ TGList Sender andalah tools untuk mengirim pesan ke satu ID chat telegram dengan
  - [x] Kirim Audio
  - [x] Tambahkan Keterangan
  - [x] Mengubah laju pengiriman dengan Interval
+ - [x] Mengubah Info Box
 
 ## **Fitur Selanjutnya?**
 
- - [x] Menghitung jumlah terkirim
  - [x] Broadcast Ke Banyak ID
  - [ ] Belum kepikiran lagi
 
 ## **Gambar TGList Sender**
 
-![enter image description here](https://i.imgur.com/pUfVUIz.png)
+![enter image description here](https://i.imgur.com/B1dI8B0.png)
 
 Kamu hanya perlu memasukan List, Interval, Bot Token, Chat ID dan Metode pengirimannya
 
