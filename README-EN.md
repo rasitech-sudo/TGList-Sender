@@ -17,15 +17,11 @@ TGList Sender is your tool to send messages to a telegram chat ID automatically 
  - [x] Add Caption
  - [x] Add delivery rate with Interval
  - [x] Add Info Box
-
-## **Next Features?**
-
  - [x] Broadcast To Many ID
- - [ ] Haven't thought about it yet
 
 ## **TGList Sender Image**
 
-![enter image description here](https://i.imgur.com/B1dI8B0.png)
+![enter image description here](https://i.imgur.com/N3DM3fh.png)
 
 You only need to enter the List, Interval, Bot Token, Chat ID and delivery method
 
@@ -33,7 +29,7 @@ You only need to enter the List, Interval, Bot Token, Chat ID and delivery metho
 
 Via Telegram
 
-> [Here](https://t.me/RasiTechChannel/1732)
+> [Here](https://t.me/RasiTechChannel/1795)
 
 Via Website
 
