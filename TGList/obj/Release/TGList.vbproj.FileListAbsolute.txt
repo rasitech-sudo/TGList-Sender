@@ -10,3 +10,4 @@ C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.vbproj.CoreComp
 C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.exe
 C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.xml
 C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.pdb
+C:\Users\Mr.Dxdiag\source\repos\TGList\TGList\obj\Release\TGList.splash.resources
