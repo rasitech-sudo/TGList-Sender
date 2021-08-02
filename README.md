@@ -17,15 +17,11 @@ TGList Sender andalah tools untuk mengirim pesan ke satu ID chat telegram dengan
  - [x] Tambahkan Keterangan
  - [x] Mengubah laju pengiriman dengan Interval
  - [x] Mengubah Info Box
-
-## **Fitur Selanjutnya?**
-
  - [x] Broadcast Ke Banyak ID
- - [ ] Belum kepikiran lagi
 
 ## **Gambar TGList Sender**
 
-![enter image description here](https://i.imgur.com/B1dI8B0.png)
+![enter image description here](https://i.imgur.com/N3DM3fh.png)
 
 Kamu hanya perlu memasukan List, Interval, Bot Token, Chat ID dan Metode pengirimannya
 
@@ -33,7 +29,7 @@ Kamu hanya perlu memasukan List, Interval, Bot Token, Chat ID dan Metode pengiri
 
 Via Telegram
 
-> [Disini](https://t.me/RasiTechChannel/1732)
+> [Disini](https://t.me/RasiTechChannel/1795)
 
 Via Website
 
